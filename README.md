@@ -19,3 +19,6 @@ https://www.thingiverse.com/thing:4967289
 
 # HuskyLens
 Train gun recognition using Object Tracking
+
+# Complete instructions 
+https://www.hackster.io/roni-bandini/gun-away-f475af
